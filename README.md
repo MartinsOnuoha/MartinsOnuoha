@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Martins  Onuoha.
 #### I sometimes pass the "I'm not a Robot" test.
-![I sometimes pass the "I'm not a Robot" test.](https://vignette.wikia.nocookie.net/romanticallyapocalyptic/images/4/47/Wikia-Visualization-Main%2Cromanticallyapocalyptic.png)
+![I sometimes pass the "I'm not a Robot" test.](https://vignette.wikia.nocookie.net/romanticallyapocalyptic/images/7/70/Dead_chalice_knights.png/revision/latest?cb=20130414155436)
 
 You'd mostly find bits and pieces of source codes in this space. Some of them subjective. It's alright if you don't understand half of what's in here, I don't either. 
 
