@@ -8,7 +8,7 @@ Skills: Javascript (Vue|Node|Angular)| Typescript | Python (Flask|Django) | PHP 
 
 - 🔭 I’m currently working on opensource & private projects 
 - 🌱 I’m currently learning to pray before each deploy. 
-- 💬 Ask me about Javascript. 
+- 💬 Ask me about Javascript & Music. 
 - 📫 How to reach me: martinsvictor.nd@gmail.com 
 
 
