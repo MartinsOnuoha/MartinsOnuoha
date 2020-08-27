@@ -4,8 +4,9 @@
 
 You'd mostly find bits and pieces of source codes in this space. Some of them subjective. It's alright if you don't understand half of what's in here, I don't either. 
 
-Skills: Javascript (Vue|Node|Angular)| Typescript | Python (Flask) | PHP (Laravel) 
-Know Hows: Technical Writing | Art
+**Skills**: Javascript (Vue|Node|Angular)| Typescript | Python (Flask) | PHP (Laravel) 
+
+**Know Hows**: Technical Writing | Art
 
 - 🔭 I’m currently working on opensource & private projects 
 - 🌱 I’m currently learning to pray before each deploy. 
