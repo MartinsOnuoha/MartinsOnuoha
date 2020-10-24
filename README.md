@@ -7,8 +7,6 @@ You'd mostly find bits and pieces of source codes in this space. Some of them su
 
 **Know Hows**: Technical Writing | Art
 
-[<img src="https://wakatime.com/share/@kratos/f65bbe13-6c8d-463c-9812-55229c697fdd.svg" alt='Languages' height='400'>](https://github.com/MartinsOnuoha)
-
 - 🔭 I’m currently working on opensource & private projects 
 - 🌱 I’m currently learning to pray before each deploy. 
 - 💬 Ask me about Javascript, Art & Music. 
