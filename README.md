@@ -3,7 +3,12 @@
 
 You'd mostly find bits and pieces of source codes in this space. Some of them subjective. It's alright if you don't understand half of what's in here, I don't either. 
 
-**Skills**: Javascript (Node,Vue.js) | Typescript | Python (Flask)  | PHP (Laravel) | Swift (Vapor)
+**Skills**: 
+ - Javascript (Node,Vue.js) :art:
+ - Typescript :guitar:
+ - Python (Flask) :snake:
+ - PHP (Laravel) :older_man:
+ - Swift (Vapor) :poodle:
 
 
 **Know Hows**: Technical Writing | Art
