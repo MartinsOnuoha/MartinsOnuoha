@@ -3,7 +3,8 @@
 
 You'd mostly find bits and pieces of source codes in this space. Some of them subjective. It's alright if you don't understand half of what's in here, I don't either. 
 
-![image](https://static01.nyt.com/images/2016/08/05/us/05onfire1_xp/05onfire1_xp-superJumbo-v2.jpg)
+![image](https://abload.de/img/1twpwl.jpg)
+
 
 **Skills**: 
  - Javascript (Node,Vue.js) :art:
@@ -11,8 +12,6 @@ You'd mostly find bits and pieces of source codes in this space. Some of them su
  - Python (Flask) :snake:
  - PHP (Laravel) :older_man:
  - Swift (Vapor) :poodle:
-
-![image](https://creators-images.vice.com/content-images/contentimage/no-slug/e4b4980051ad925f38d2bb2a4741df36.jpg)
 
 **Know Hows**: Technical Writing | Art
 
