@@ -3,9 +3,7 @@
 
 You'd mostly find bits and pieces of source codes in this space. Some of them subjective. It's alright if you don't understand half of what's in here, I don't either. 
 
-**Skills**: Javascript (Vue|Node|Angular)| Typescript | Python (Flask) | PHP (Laravel) 
-
-[<img src="https://wakatime.com/share/@kratos/29361d59-1f23-448d-b93c-b0c628024454.svg" alt='Languages' height='300'>](https://github.com/martinsonuoha)
+**Skills**: Javascript (Node,Vue.js) | Typescript | Python (Flask)  | PHP (Laravel) | Swift (Vapor)
 
 
 **Know Hows**: Technical Writing | Art
