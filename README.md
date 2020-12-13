@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Martins  Onuoha.
 #### I sometimes pass the "I'm not a Robot" test.
 
-You'd mostly find bits and pieces of source codes in this space. Some of them subjective. It's alright if you don't understand half of what's in here, I don't either. 
+You'd mostly find bits and pieces of source codes in this space. Some of them subjective, and that's fine, this is an experimental space. It's alright if you don't understand half of what's in here, I don't either. 
 
 ![image](https://static01.nyt.com/images/2016/08/05/us/05onfire1_xp/05onfire1_xp-superJumbo-v2.jpg)
 
