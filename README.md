@@ -64,7 +64,7 @@ You'd mostly find bits and pieces of source codes in this space. Some of them su
         </td>
         <td width="25%" align="center">
           <h3>Devjavu</h3>
-          <a href="https://devjavu.space">I'm always writing interesting web dev articles in this space.</a>
+          <a href="https://devjavu.space">I'm always publishing web dev articles in this space.</a>
         </td>
       </tr>
     </tbody>
