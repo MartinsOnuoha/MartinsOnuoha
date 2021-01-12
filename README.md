@@ -10,9 +10,9 @@ You'd mostly find bits and pieces of source codes in this space. Some of them su
 
 - Javascript (Node,Vue.js) :art:
 - Typescript :guitar:
-- Python (Flask) :snake:
-- PHP (Laravel) :older_man:
-- Swift (Vapor) :poodle:
+- Python :snake:
+- PHP :older_man:
+- Swift :poodle:
 
 ## Know Hows
 
