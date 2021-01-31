@@ -9,7 +9,6 @@ This is an experimental space. It's alright if you don't understand half of what
 ## Currently?
 
 - 🔭 I’m currently working on opensource & private projects
-- 🌱 I’m currently learning to pray before each deploy.
 - 💬 Ask me about Javascript, Art & Music.
 - 📫 How to reach me: martinsvictor.nd@gmail.com
 
