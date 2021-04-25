@@ -1,6 +1,6 @@
 This is an experimental space. It's alright if you don't understand half of what's in here... <br>You're not alone.
 
-<img width="600" height="auto" src="https://static01.nyt.com/images/2016/08/05/us/05onfire1_xp/05onfire1_xp-superJumbo-v2.jpg">
+<img width="600" height="auto" src="https://raw.githubusercontent.com/MartinsOnuoha/MartinsOnuoha/master/media/banner.png">
 
 ## Know Hows
 
