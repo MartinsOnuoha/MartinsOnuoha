@@ -4,7 +4,7 @@ This is an experimental space. It's alright if you don't understand half of what
 
 ## Know Hows
 
-- Technical Writing | Art | Building
+- Technical Writing | Art | Build cool stuff
 
 ## Currently?
 
