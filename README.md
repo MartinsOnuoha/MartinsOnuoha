@@ -63,4 +63,3 @@ This is an experimental space. It's alright if you don't understand half of what
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinsOnuoha&show_icons=true)
 
-![Profile views](https://gpvc.arturio.dev/MartinsOnuoha)
