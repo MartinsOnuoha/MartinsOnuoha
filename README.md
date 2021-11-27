@@ -38,10 +38,6 @@ This is an experimental space. It's alright if you don't understand half of what
           <a target="_blank" href="https://call-code-checker.surge.sh/">Get the dialing code of any country</a>
         </td>
         <td width="25%" align="left">
-          <h3>Vue-Pug Starter</h3>
-          <a target="_blank" href="https://github.com/MartinsOnuoha/vue-pug-starter">Get started quickly with Vue & Pug with this starter template</a>
-        </td>
-        <td width="25%" align="left">
           <h3>Devjavu</h3>
           <a target="_blank" href="https://devjavu.space">I'm always publishing web dev articles in this space.</a>
         </td>
