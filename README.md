@@ -19,15 +19,15 @@ This is an experimental space. It's alright if you don't understand half of what
 <table>
     <tbody>
       <tr valign="top">
-        <td width="25%" align="left">
+        <td width="20%" align="left">
           <h3>Countries Now</h3>
           <a target="_blank" href="https://countriesnow.space/">An Open source api for retrieving countries and cities data. 🌎</a>
         </td>
-        <td width="25%" align="left">
+        <td width="20%" align="left">
           <h3>Genx-QR Generator</h3>
           <a target="_blank" href="https://genxqrcode.web.app/">Easily generate Unique QR codes for your URLS</a>
         </td>
-        <td width="25%" align="left">
+        <td width="20%" align="left">
           <h3>Genx-URL Scanner</h3>
           <a target="_blank" href="https://genxscanner.web.app/">Scan QRCodes and generate one-click link to their URLS</a>
         </td>
