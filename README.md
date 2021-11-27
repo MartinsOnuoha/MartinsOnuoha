@@ -21,7 +21,7 @@ This is an experimental space. It's alright if you don't understand half of what
       <tr valign="top">
         <td width="25%" align="left">
           <h3>BlogCafé ☕️</h3>
-          <a href="https://github.com/MartinsOnuoha/BlogCafe">A Simple SPA Blog built with Laravel Vue (With Multiple Image Upload) - Easy to get started with</a>
+          <a href="https://github.com/MartinsOnuoha/BlogCafe">A Simple SPA Blog starter built with Laravel + Vue</a>
         </td>
         <td width="25%" align="left">
           <h3>Countries Now</h3>
