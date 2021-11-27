@@ -34,10 +34,6 @@ This is an experimental space. It's alright if you don't understand half of what
       </tr>
       <tr valign="top">
         <td width="25%" align="left">
-          <h3>Mini JamStack Apps</h3>
-          <a target="_blank" href="https://github.com/MartinsOnuoha/countriesNow-Demo-Apps">A Collection of Small Jamstack applications built around the Countries Now API</a>
-        </td>
-        <td width="25%" align="left">
           <h3>Call Code Checker</h3>
           <a target="_blank" href="https://call-code-checker.surge.sh/">Get the dialing code of any country</a>
         </td>
