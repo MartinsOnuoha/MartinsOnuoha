@@ -14,45 +14,15 @@ This is an experimental space. It's alright if you don't understand half of what
 
 <hr style="margin-bottom: 5rem">
 
-## Side Projects?
+## Side Stuff?
 
-<table>
-    <tbody>
-      <tr valign="top">
-        <td width="20%" align="left">
-          <h3>Countries Now</h3>
-          <a target="_blank" href="https://countriesnow.space/">An Open source api for retrieving countries and cities data. 🌎</a>
-        </td>
-        <td width="20%" align="left">
-          <h3>Genx-QR Generator</h3>
-          <a target="_blank" href="https://genxqrcode.web.app/">Easily generate Unique QR codes for your URLS</a>
-        </td>
-        <td width="20%" align="left">
-          <h3>Genx-URL Scanner</h3>
-          <a target="_blank" href="https://genxscanner.web.app/">Scan QRCodes and generate one-click link to their URLS</a>
-        </td>
-      </tr>
-      <tr valign="top">
-        <td width="25%" align="left">
-          <h3>Call Code Checker</h3>
-          <a target="_blank" href="https://call-code-checker.surge.sh/">Get the dialing code of any country</a>
-        </td>
-        <td width="25%" align="left">
-          <h3>Devjavu</h3>
-          <a target="_blank" href="https://devjavu.space">I'm always publishing web dev articles in this space.</a>
-        </td>
-      </tr>
-      <tr valign="bottom">
-          <td width="25%" align="left">
-              <h3>CreatedAt</h3>
-              <a target="_blank" href="https://github.com/MartinsOnuoha/created_at">Get the creation date of a github repository</a>
-          </td>
-          <td width="25%" align="left">
-              <a href="https://github.com/MartinsOnuoha?tab=repositories">And More...</a>
-          </td>
-      </tr>
-    </tbody>
-</table>
+- ☕ [Devjavu](https://devjavu.space) - I'm always publishing web dev articles in this space.
+- 🌎 [Countries Now](https://countriesnow.space/) -  An Open source api for retrieving countries and cities data.
+- 🔐 [Genx-QR Generator](https://genxqrcode.web.app/) - Easily generate Unique QR codes for your URLS.
+- 📠 [Genx-URL Scanner](https://genxscanner.web.app/) - Scan QRCodes and generate one-click link to their URLS.
+- 📞 [Call Code Checker](https://call-code-checker.surge.sh/) - Get the dialing code of any country.
+- 📅 [CreatedAt](https://github.com/MartinsOnuoha/created_at) - Get the creation date of a github repository.
+
 
 <hr>
 
