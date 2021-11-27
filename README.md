@@ -20,10 +20,6 @@ This is an experimental space. It's alright if you don't understand half of what
     <tbody>
       <tr valign="top">
         <td width="25%" align="left">
-          <h3>BlogCafé ☕️</h3>
-          <a target="_blank" href="https://github.com/MartinsOnuoha/BlogCafe">A Simple SPA Blog starter built with Laravel + Vue</a>
-        </td>
-        <td width="25%" align="left">
           <h3>Countries Now</h3>
           <a target="_blank" href="https://countriesnow.space/">An Open source api for retrieving countries and cities data. 🌎</a>
         </td>
