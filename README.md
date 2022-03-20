@@ -1,4 +1,4 @@
-This is an experimental space. It's alright if you don't understand half of what's in here... <br>You're not alone.
+This is an experimental space. It's alright if you don't understand half of what's in here... <br>I don't either.
 
 <img width="600" height="auto" src="https://raw.githubusercontent.com/MartinsOnuoha/MartinsOnuoha/master/media/banner.png">
 
