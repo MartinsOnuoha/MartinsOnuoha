@@ -15,7 +15,6 @@ This is an experimental space. It's alright if you don't understand half of what
 - 📫 How to reach me: martinsvictor.nd@gmail.com
 - Mentorship 
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/martinsonuoha/find-me-on-cm-b.svg)](https://www.codementor.io/@martinsonuoha?refer=badge)
 
 <hr style="margin-bottom: 5rem">
 
