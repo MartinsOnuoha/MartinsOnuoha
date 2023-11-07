@@ -13,7 +13,7 @@ This is an experimental space. It's alright if you don't understand half of what
 - 🔭 I’m currently working on opensource & private projects
 - 💬 Ask me about Javascript, Art & Music.
 - 📫 How to reach me: martinsvictor.nd@gmail.com
-- Mentorship 
+- 📞 Mentorship 
 
 
 <hr style="margin-bottom: 5rem">
