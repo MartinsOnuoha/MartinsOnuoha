@@ -22,6 +22,7 @@ This is an experimental space. It's alright if you don't understand half of what
 
 - ☕ [Devjavu](https://devjavu.space) - I'm always publishing web dev articles in this space.
 - 🌎 [Countries Now](https://countriesnow.space/) -  An Open source api for retrieving countries and cities data.
+- 🎨 [WhatShouldIDesign](http://whatshouldidesign.space/) - Exhaustive list of UI/UX design problem statements. 
 - 🔐 [Genx-QR Generator](https://genxqrcode.web.app/) - Easily generate Unique QR codes for your URLS.
 - 📠 [Genx-URL Scanner](https://genxscanner.web.app/) - Scan QRCodes and generate one-click link to their URLS.
 - 📞 [Call Code Checker](https://call-code-checker.surge.sh/) - Get the dialing code of any country.
