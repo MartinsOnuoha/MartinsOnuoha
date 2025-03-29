@@ -2,15 +2,14 @@ This is an experimental space. It's alright if you don't understand half of what
 
 <img width="600" height="auto" src="https://raw.githubusercontent.com/MartinsOnuoha/MartinsOnuoha/master/media/banner.png">
 
-<!-- <a href="https://www.buymeacoffee.com/martinsvicF" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> -->
 
 ## Know Hows
 
-- To be Human...
+- To Build & be Human...
 
 ## Currently?
 
-- 🔭 I’m currently working on opensource & private projects
+- 🔭 I’m currently working on open-source & private projects
 - 💬 Ask me about Javascript, Art & Music.
 - 📫 How to reach me: martinsvictor.nd@gmail.com
 - 📞 Mentorship  [![Contact me on Codementor](https://www.codementor.io/m-badges/martinsonuoha/book-session.svg)](https://www.codementor.io/@martinsonuoha?refer=badge)
@@ -22,9 +21,9 @@ This is an experimental space. It's alright if you don't understand half of what
 
 - ☕ [Devjavu](https://devjavu.space) - I'm always publishing web dev articles in this space.
 - 🌎 [Countries Now](https://countriesnow.space/) -  An Open source api for retrieving countries and cities data.
-- 🎨 [WhatShouldIDesign](http://whatshouldidesign.space/) - Exhaustive list of UI/UX design problem statements. 
+- 🎨 [WhatShouldIDesign](http://whatshouldidesign.space/) - An Exhaustive list of UI/UX design problem statements. 
 - 🔐 [Genx-QR Generator](https://genxqrcode.web.app/) - Easily generate Unique QR codes for your URLS.
-- 📠 [Genx-URL Scanner](https://genxscanner.web.app/) - Scan QRCodes and generate one-click link to their URLS.
+- 📠 [Genx-URL Scanner](https://genxscanner.web.app/) - Scan QR codes and generate one-click links to their URLS.
 - 📞 [Call Code Checker](https://call-code-checker.surge.sh/) - Get the dialing code of any country.
 - 📅 [CreatedAt](https://created-at.onrender.com/) - Get the creation date of a github repository.
 
