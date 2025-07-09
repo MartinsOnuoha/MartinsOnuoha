@@ -1,6 +1,11 @@
-This is an experimental space. It's alright if you don't understand half of what's in here...You're not alone.
-
 <img style="width: 100%" height="auto" src="https://raw.githubusercontent.com/MartinsOnuoha/MartinsOnuoha/refs/heads/master/media/blue_banner.webp">
+
+This is an experimental space.
+
+## Tools
+- Python | Flask | Django
+- Javascript | Typescript | Node
+- PHP | Laravel | Symphony
 
 ## Currently?
 
