@@ -1,5 +1,6 @@
 This is an experimental space. It's alright if you don't understand half of what's in here...You're not alone.
 
+<div style="background-image: url('https://raw.githubusercontent.com/MartinsOnuoha/MartinsOnuoha/master/media/blue_banner.webp'); height: 300px; width: 100%;"></div>
 <img width="600" height="auto" src="https://raw.githubusercontent.com/MartinsOnuoha/MartinsOnuoha/master/media/blue_banner.webp">
 
 
