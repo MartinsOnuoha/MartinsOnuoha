@@ -1,4 +1,4 @@
-This is an experimental space. It's alright if you don't understand half of what's in here... <br>I don't either.
+This is an experimental space. It's alright if you don't understand half of what's in here...You're not alone.
 
 <img width="600" height="auto" src="https://raw.githubusercontent.com/MartinsOnuoha/MartinsOnuoha/master/media/blue_banner.webp">
 
@@ -10,7 +10,7 @@ This is an experimental space. It's alright if you don't understand half of what
 ## Currently?
 
 - 🔭 I’m currently working on open-source & private projects
-- 💬 Ask me about Javascript, Art & Music.
+- 💬 Ask me about JavaScript, Python, Art & Music.
 - 📫 How to reach me: martinsvictor.nd@gmail.com
 - 📞 Mentorship  [![Contact me on Codementor](https://www.codementor.io/m-badges/martinsonuoha/book-session.svg)](https://www.codementor.io/@martinsonuoha?refer=badge)
 
