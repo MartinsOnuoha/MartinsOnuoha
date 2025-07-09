@@ -1,12 +1,7 @@
 This is an experimental space. It's alright if you don't understand half of what's in here...You're not alone.
 
-<div style="background-image: url('https://raw.githubusercontent.com/MartinsOnuoha/MartinsOnuoha/master/media/blue_banner.webp'); height: 300px; width: 100%;"></div>
+<span style="background-image: url('https://raw.githubusercontent.com/MartinsOnuoha/MartinsOnuoha/master/media/blue_banner.webp'); height: 300px; width: 100%;"></span>
 <img width="600" height="auto" src="https://raw.githubusercontent.com/MartinsOnuoha/MartinsOnuoha/master/media/blue_banner.webp">
-
-
-## Know Hows
-
-- To Build & be Human...
 
 ## Currently?
 
@@ -21,8 +16,8 @@ This is an experimental space. It's alright if you don't understand half of what
 ## Side Stuff?
 
 - ☕ [Devjavu](https://devjavu.space) - I'm always publishing web dev articles in this space.
-- 🌎 [Countries Now](https://countriesnow.space/) -  An Open source api for retrieving countries and cities data.
-- 🎨 [WhatShouldIDesign](http://whatshouldidesign.space/) - An Exhaustive list of UI/UX design problem statements. 
+- 🌎 [CountriesNow.space](https://countriesnow.space/) -  An Open source api for retrieving countries and cities data.
+- 🎨 [WhatShouldIDesign.space](http://whatshouldidesign.space/) - An Exhaustive list of UI/UX design problem statements. 
 - 🔐 [Genx-QR Generator](https://genxqrcode.web.app/) - Easily generate Unique QR codes for your URLS.
 - 📠 [Genx-URL Scanner](https://genxscanner.web.app/) - Scan QR codes and generate one-click links to their URLS.
 - 📞 [Call Code Checker](https://call-code-checker.surge.sh/) - Get the dialing code of any country.
