@@ -1,5 +1,3 @@
-<img style="width: 100%" height="auto" src="https://raw.githubusercontent.com/MartinsOnuoha/MartinsOnuoha/refs/heads/master/media/blue_banner.webp">
-
 This is an experimental space. 🧪🔬
 
 ## Tools
