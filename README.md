@@ -1,13 +1,8 @@
 This is an experimental space. 🧪🔬
 
-## Tools
-- Python | Flask | Django
-- Javascript | Typescript | Node
-- PHP | Laravel | Symphony
+## Currently
 
-## Currently?
-
-- 🔭 I’m currently working on open-source & private projects
+- 🔭 Currently working on open-source & private projects
 - 💬 Ask me about JavaScript, Python, Art & Music.
 - 📫 How to reach me: martinsvictor.nd@gmail.com
 - 📞 Mentorship  [![Contact me on Codementor](https://www.codementor.io/m-badges/martinsonuoha/book-session.svg)](https://www.codementor.io/@martinsonuoha?refer=badge)
@@ -15,7 +10,7 @@ This is an experimental space. 🧪🔬
 
 <hr style="margin-bottom: 5rem">
 
-## Side Stuff?
+## Thinkerings
 
 - ☕ [Devjavu](https://devjavu.space) - I'm always publishing web dev articles in this space.
 - 🌎 [CountriesNow.space](https://countriesnow.space/) -  An Open source api for retrieving countries and cities data.
@@ -24,6 +19,7 @@ This is an experimental space. 🧪🔬
 - 📠 [Genx-URL Scanner](https://genxscanner.web.app/) - Scan QR codes and generate one-click links to their URLS.
 - 📞 [Call Code Checker](https://call-code-checker.surge.sh/) - Get the dialing code of any country.
 - 📅 [CreatedAt](https://created-at.onrender.com/) - Get the creation date of a github repository.
+- 
 
 
 
