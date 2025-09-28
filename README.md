@@ -1,4 +1,4 @@
-This is an experimental space. 🧪🔬
+This is an experimental space. Mistakes are okay. 🧪🔬
 
 - 🔭 Currently working on open-source & private projects
 - 💬 Ask me about Software Development, Art & Music.
